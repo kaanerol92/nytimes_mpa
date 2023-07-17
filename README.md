@@ -1,30 +1,11 @@
 # nytimes_mpa
 
-A new Flutter project.
+REQUIRED TECH:
+Flutter version '3.10.6'
+Dart SDK version '3.0.6'
 
-## Getting Started
+INSTALL:
+After download the project if needed 'flutter pub get' should call then app can start with 'flutter run' command.
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
-
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Assets
-
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
-
-## Localization
-
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+TEST:
+in 'VSCODE' you can download extension named 'FLUTTER COVERAGE' then in 'Testing' tab you will be able to run test coverage and see percent of coverage.
